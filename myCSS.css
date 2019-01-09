@@ -9,22 +9,23 @@ body {
 }
 
 
-     background-color: #FFFFFF;
+     background-color:#D1F2EB;
      margin: 0;
      padding: 0;
-     color: #000;
+     color: #D1F2EB;
 }
 
 
      margin: 0;
      padding: 0;
-     color: #000;
+     color: #D1F2EB;
 }
 
 
 }
-.homePage {
-	background: #222222;
+.homePage
+{
+	background: #FCD6C9;
 }
 .container {
 	width: 960px;
